@@ -1,4 +1,6 @@
-# Project for Uber trips
+# Project for Uber trips 
+Details can be found in the UberTrips.ipynb file.
+
 # Summary
 - Stay close to SF downtown any time. SF downtown has the highest density of pickups. 
 - Best weekdays time recommendation of any location is rush hour times (7-9am, 16-19pm).
