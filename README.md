@@ -6,6 +6,4 @@
 - Weekdays and weekends stategies:
   - During weekdays, stay close to SF downtown.
   - During weekends, stay close to outskirt of SF downtown around 6am, 16, 17pm, and SF downtown for other times. 
-
-Otherthings to keep in mind:
 - The commission from Uber barely changes from 20\%. 
